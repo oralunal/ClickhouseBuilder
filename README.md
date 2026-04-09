@@ -5,7 +5,7 @@
 
 # Requirements
 
-`php 7.1+`
+`php 8.5+`
 
 # Install
 
