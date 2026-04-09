@@ -322,7 +322,7 @@ class Connection extends \Illuminate\Database\Connection
      *
      * @return array
      */
-    public function select($query, $bindings = [], $tables = [])
+    public function select($query, $bindings = [], $tables = [], array $fetchUsing = [])
     {
         $result = $this->getClient()->readOne($query, $tables);
 

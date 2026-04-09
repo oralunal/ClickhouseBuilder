@@ -1,5 +1,7 @@
 # Clickhouse Query Builder
-[![Build Status](https://travis-ci.org/the-tinderbox/ClickhouseBuilder.svg?branch=master)](https://travis-ci.org/the-tinderbox/ClickhouseBuilder) [![Coverage Status](https://coveralls.io/repos/github/the-tinderbox/ClickhouseBuilder/badge.svg?branch=master)](https://coveralls.io/github/the-tinderbox/ClickhouseBuilder?branch=master)
+[![Build Status](https://travis-ci.org/oralunal/ClickhouseBuilder.svg?branch=master)](https://travis-ci.org/oralunal/ClickhouseBuilder) [![Coverage Status](https://coveralls.io/repos/github/oralunal/ClickhouseBuilder/badge.svg?branch=master)](https://coveralls.io/github/oralunal/ClickhouseBuilder?branch=master)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/oralunal/clickhouse-builder.svg?style=flat-square)](https://packagist.org/packages/oralunal/clickhouse-builder)
+[![Total Downloads](https://img.shields.io/packagist/dt/oralunal/clickhouse-builder.svg?style=flat-square)](https://packagist.org/packages/oralunal/clickhouse-builder)
 
 # Requirements
 
@@ -10,7 +12,7 @@
 Via composer
 
 ```bash
-composer require the-tinderbox/clickhouse-builder
+composer require oralunal/clickhouse-builder
 ```
 
 # Usage

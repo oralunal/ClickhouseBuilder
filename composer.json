@@ -1,6 +1,7 @@
 {
   "name": "oralunal/clickhouse-builder",
   "description": "Clickhouse sql query builder, forked from glushkovds/ClickhouseBuilder",
+  "license": "MIT",
   "authors": [
     {
       "name": "FacedSID",
